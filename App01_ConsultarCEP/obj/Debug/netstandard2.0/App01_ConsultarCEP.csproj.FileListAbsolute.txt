@@ -1,0 +1,14 @@
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.csprojAssemblyReference.cache
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.AssemblyInfoInputs.cache
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.AssemblyInfo.cs
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.dll
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/ref/App01_ConsultarCEP.dll
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.pdb
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.deps.json
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.dll
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/ref/App01_ConsultarCEP.dll
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.pdb
+/Users/macbook/Projects/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/XamlC.stamp
